@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY,CACV,UAAU,CAAE,uDAAuD,CACnE,eAAe,CAAE,KAAK",
+"sources": ["../scss/modelY.scss"],
+"names": [],
+"file": "modelY.css"
+}

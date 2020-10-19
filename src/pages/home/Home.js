@@ -38,11 +38,10 @@ function Home() {
         </div>
       </section>
       <section className='fullSection homeModelY'>
-        <p>Tesla</p>
         <h2>Model Y</h2>
         <p></p>
         <div>
-          <Button variant='light' className='teslaButton teslaBtInverse'>Shop Now</Button>
+          <Button variant='light' className='teslaButton teslaBtInverse'>Order Now</Button>
         </div>
       </section>
     </>

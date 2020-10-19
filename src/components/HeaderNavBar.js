@@ -14,11 +14,11 @@ function HeaderNavBar() {
             src={Logo}
             width="100"
             height="26"
-            className="d-inline-block align-top"
+            className="d-inline-block align-top brandTesla"
           />
         </Navbar.Brand>
         <Nav>
-          <Nav.Link href="#home">Model s</Nav.Link>
+          <Nav.Link href="#models">Model s</Nav.Link>
           <Nav.Link href="#features">Model 3</Nav.Link>
           <Nav.Link href="#pricing">Model x</Nav.Link>
           <Nav.Link href="#features">Model y</Nav.Link>

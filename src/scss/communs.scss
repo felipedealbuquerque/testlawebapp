@@ -2,6 +2,11 @@ html, body {
   min-height: 100%;
 }
 
+// Tesla Brand
+.brandTesla {
+  filter: invert(100%);
+}
+
 // Full sections
 .fullSection {
   min-height: 100vh;
@@ -16,8 +21,10 @@ html, body {
 }
 
 .videoBgSection {
+  min-height: auto;
   padding: 0;
   position: relative;
+  display: flex;
   video {
     width: 100%;
   }
@@ -25,8 +32,8 @@ html, body {
 
 .contentOverlay {
   position: absolute;
-  top:7.7em;
   text-align: center;
+  top:16%;
 }
 
 .teslaButton {
@@ -61,7 +68,7 @@ html, body {
   display: flex;
   justify-content: center;
   text-align: center;
-  padding: 2em 0;
+  padding: 1.8em 0;
   a {
     color: #393c41;
     font-size: 12px;

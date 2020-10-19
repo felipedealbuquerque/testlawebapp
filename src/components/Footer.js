@@ -1,6 +1,5 @@
 import React from 'react'
-import { Navbar, Nav } from 'react-bootstrap'
-import Logo from '../assets/brandblack.svg'
+import { Nav } from 'react-bootstrap'
 import '../css/headerNavBar.css';
 
 function Footer() {
